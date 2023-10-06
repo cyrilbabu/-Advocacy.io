@@ -1,0 +1,14 @@
+* {
+    padding: 0;
+    margin: 0;
+    border: 0;
+}
+
+.nav-link {
+    color: whitesmoke !important;
+}
+
+.nav-link:hover {
+    color: whitesmoke !important;
+    transform: scale(1.1);
+}

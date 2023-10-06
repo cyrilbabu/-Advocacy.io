@@ -1,0 +1,85 @@
+@import url(https://fonts.googleapis.com/css?family=Montserrat:100,200,300,regular,500,600,700,800,900,100italic,200italic,300italic,italic,500italic,600italic,700italic,800italic,900italic);
+
+
+* {
+    padding: 0;
+    margin: 0;
+    border: 0;
+}
+
+h1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 5vw;
+    padding-bottom: 4vh;
+}
+
+
+.info-div {
+    padding: 4vh;
+    height: 90vh;
+    margin: 0;
+
+    background: -webkit-gradient(linear, left top, right bottom, color-stop(50%, #E9F8F9), color-stop(50%, #537FE7));
+    background: -webkit-linear-gradient(top left, #E9F8F9 50%, #537FE7 50%);
+    background: -o-linear-gradient(top left, #E9F8F9 50%, #537FE7 50%);
+    background: linear-gradient(to bottom right, #E9F8F9 50%, #537FE7 50%);
+
+}
+
+.col {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    flex-flow: column;
+}
+
+.intro-text-div {
+    margin-top: -4vh;
+    padding-top: 31vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 30vh;
+    font-size: 20px;
+}
+
+p {
+    font-family: 'Monteserrat';
+}
+
+
+.footer {
+    background-color: black;
+    justify-content: center;
+    align-items: center;
+}
+
+body {
+    background-color: black;
+}
+
+.statue-of-justice {
+    height: 82vh;
+    padding-left: 1vh;
+}
+
+.nav-link {
+    color: whitesmoke !important;
+}
+
+.nav-link:hover {
+    color: whitesmoke !important;
+    transform: scale(1.1);
+}
+
+.download-button {
+    margin: 2% 3% 0% 0;
+    width: 80%;
+}
+
+
+
+
+/* Discover top-tier legal representation with ease. Our platform connects clients to qualified advocates in moments. Expertise tailored to your needs, effortlessly. */
